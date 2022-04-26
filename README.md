@@ -14,14 +14,22 @@ In the process I used a few epidemic trackers and followed a few authors:
 2. County wide data was procured from [California Health and Human Services Open Data Portal](https://data.chhs.ca.gov/dataset/covid-19-time-series-metrics-by-county-and-state/resource/046cdd2b-31e5-4d34-9ed3-b48cdbc4be7a). I searched for "Santa Clara" County to download my county's data.
 
 ## Did the various Covid-19 plots meet my expectation?
-Here are 3 plots that I really wanted to examine in depth. 
-1. ![Covid-19 cases plot](./images/Covid_Cases_plot.png)
-    I wanted to see how the US country wide cases went, and compare them to California cases plot. Most ideally all the California numbers should be 1/50 (since it is one of the 50 states) of the total US cases but it was not so! The state fared well most of the time except around December 2020, January 2021 and January 2022.
-    Similarly, my county (Santa Clara County) is one 58 counties in the state of California. Santa Clara county did fairly well during December 2020 and January 2021, but after the schools repoened there was a sharp rise in covid cases.
-2. ![Covid-19 Deaths plot](./images/Covid_Deaths_plot.png)
-    It is safe to conclude that California state fared much better than Country in terms of Covid deaths.
-3. ![Covid-19 Vaccination plot](./images/Covid_Cases_Vaccination.png)
-    We can conclude that vaccinations were successfull!
-    After the first doses of vaccination we can see that Covid cases began to subside and that helped get through the Delta variant.
-    The Omicron variant is highly transmissible and from the plot we can see that cases rose rapidly.
-    The good news is that as the booster dose became effective, the total covid cases began their downward trend.
+Here are the 3 plots that I really wanted to examine in depth. 
+
+![Covid-19 cases plot](./images/Covid_Cases_plot.png)
+    
+I wanted to see how the US country wide cases went, and compare them to California cases plot. Most ideally all the California numbers should be 1/50 (since it is one of the 50 states) of the total US cases but it was not so! The state fared well most of the time except around December 2020, January 2021 and January 2022.
+Similarly, my county (Santa Clara County) is one 58 counties in the state of California. Santa Clara county did fairly well during December 2020 and January 2021, but after the schools repoened there was a sharp rise in covid cases.
+
+
+![Covid-19 Deaths plot](./images/Covid_Deaths_plot.png)
+    
+Looks like California state fared much better than Country in terms of Covid deaths.
+
+
+![Covid-19 Vaccination plot](./images/Covid_Cases_Vaccination.png)
+
+We can conclude that vaccinations were successfull!    
+After the first doses of vaccination we can see that Covid cases began to subside and that helped get through the Delta variant.
+The Omicron variant is highly transmissible and from the plot we can see that cases rose rapidly.
+The good news is that as the booster dose became effective, the total covid cases began their downward trend.
