@@ -2,5 +2,6 @@
 .git/**
 build
 TODO.txt
+PROJECT.txt
 .vscode/**
 ./data/Covid19_vaccinations_in_CA_SantaClaraCounty.csv

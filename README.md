@@ -33,3 +33,11 @@ We can conclude that vaccinations were successfull!
 After the first doses of vaccination we can see that Covid cases began to subside and that helped get through the Delta variant.
 The Omicron variant is highly transmissible and from the plot we can see that cases rose rapidly.
 The good news is that as the booster dose became effective, the total covid cases began their downward trend.
+
+## How to use:
+1. Create a new conda environment using enivornment.yml
+*     conda env create --file environment.yml
+*     This will create covid19viz conda environment
+2. Invoke the environment:
+*     either with conda activate covid19viz
+*     or select the covid19viz kernel in Visual Studio
