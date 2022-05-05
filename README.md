@@ -7,6 +7,7 @@ I have been following the Covid-19 cases and death rate actively since January 2
 In the process I used a few epidemic trackers and followed a few authors:
 1. Metabiota's [epidemic tracker](https://www.epidemictracker.com/): This company tracks diseases from Dengue to Covid-19 and was one of the few companies who raised the red flag as early as December 25th, 2019 (saying that something was terribly wrong in China)
 2. Tomas Pueyo's articles on Medium: The most famous being [The Hammer and the Dance](https://tomaspueyo.medium.com/coronavirus-the-hammer-and-the-dance-be9337092b56). This was the first article that discussed the current scenarios and what countries can do to control the spread of the virus. Unfortunately the virus did spread and the lockdowns helped, but not so much. He followed this up with [Coronavirus: Learning How to Dance](https://tomaspueyo.medium.com/coronavirus-learning-how-to-dance-b8420170203e), [Coronavirus: The Basic Dance Steps Everybody Can Follow](https://tomaspueyo.medium.com/coronavirus-the-basic-dance-steps-everybody-can-follow-b3d216daa343)and [Coronavirus: How to Do Testing and Contact Tracing](https://tomaspueyo.medium.com/coronavirus-how-to-do-testing-and-contact-tracing-bde85b64072e)
+3. BBC News: [Covid: World’s true pandemic death toll nearly 15 million, says WHO](https://www.bbc.com/news/health-61327778?utm_source=Nature+Briefing&utm_campaign=3b02233ccc-briefing-dy-20220505&utm_medium=email&utm_term=0_c9dfd39373-3b02233ccc-46571502)
 
 
 ## Here's how I obtained the datasets
